@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/ankan945/ankan945/blob/main/Neon%20Green%20Gaming%20Channel%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Ankan Deb</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankan945&label=Profile%20views&color=0e75b6&style=flat" alt="ankan945" /> </p>
 
-- 🌱 I’m currently learning **ReactJs,Java,Python**
+- <h3> 🌱 I’m currently learning **ReactJs,Java,Python**</h3>
 
-- 👨‍💻 All of my projects are available at [https://ankan945.github.io/newportfolio/](https://ankan945.github.io/newportfolio/)
+- <h3>👨‍💻 All of my projects are available at [https://ankan945.github.io/newportfolio/](https://ankan945.github.io/newportfolio/)</h3>
 
-- 📫 How to reach me **📧ankandeb43@gmail.com**
+- <h3>📫 How to reach me **📧ankandeb43@gmail.com**</h3>
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1faEL2Xbd2ciNzDlCrltCh2kACUjKD7dG?usp=drive_link](https://drive.google.com/drive/folders/1faEL2Xbd2ciNzDlCrltCh2kACUjKD7dG?usp=drive_link)
+- <h3>📄 Know about my experiences [https://drive.google.com/drive/folders/1faEL2Xbd2ciNzDlCrltCh2kACUjKD7dG?usp=drive_link](https://drive.google.com/drive/folders/1faEL2Xbd2ciNzDlCrltCh2kACUjKD7dG?usp=drive_link)</h3>
 
-- ⚡ Fun fact **I never imagined 😉in past that I will choose engineering😥, but sometimes life takes surprising turns..🥳.however Now I'm enjoying it👍.**
+- <h3>⚡ Fun fact **I never imagined 😉in past that I will choose engineering😥, but sometimes life takes surprising turns..🥳.however Now I'm enjoying it👍.**</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
